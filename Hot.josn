@@ -22,5 +22,53 @@
         "variant_name": "Conference",
         "option_name": "Conference 15GB",
         "order": 3
+    },
+    {
+        "family_name": "GRAB Gacor",
+        "family_code": "45701d43-ea3d-4232-960c-fe885c097db5",
+        "is_enterprise": null,
+        "variant_name": "GRAB Gacor",
+        "option_name": "Paket XL Grab Gacor, Rp. 25,000",
+        "order": 1
+    },
+    {
+        "family_name": "GRAB Gacor",
+        "family_code": "45701d43-ea3d-4232-960c-fe885c097db5",
+        "is_enterprise": null,
+        "variant_name": "GRAB Gacor",
+        "option_name": "Paket XL Grab Gacor, Rp. 50,000",
+        "order": 2
+    },
+    {
+        "family_name": "BIZ Data+",
+        "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+        "is_enterprise": null,
+        "variant_name": "BIZ Data+",
+        "option_name": "BIZ Data+ 12GB",
+        "order": 4
+    },
+    {
+        "family_name": "BIZ Data+",
+        "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+        "is_enterprise": null,
+        "variant_name": "BIZ Data+",
+        "option_name": "BIZ Data+ 22GB",
+        "order": 3
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+        "is_enterprise": null,
+        "variant_name": "BIZ Prepaid",
+        "option_name": "BIZ Starter",
+        "order": 1
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+        "is_enterprise": null,
+        "variant_name": "BIZ Prepaid",
+        "option_name": "BIZ Prime",
+        "order": 2
     }
 ]
