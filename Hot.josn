@@ -1,10 +1,7 @@
 [
     {
-        "family_name": "Xtra Combo Plus",
-        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
-        "is_enterprise": false,
-        "variant_name": "For Xtra Combo plus",
-        "option_name": "Extra Combo Plus",
-        "order": 24
+      Family Name: Xtra Combo Plus                                    Family Code: 23b71540-8785-4abe-816d-e9b4efa48f95
+      Family Type: PACKAGE
+      Variant Count: 2
     }
 ]
