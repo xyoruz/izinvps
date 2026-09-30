@@ -1,11 +1,10 @@
 [
     {
-        "family_name": "Xtra Combo Plus - Reguler - 8.5GB",
+        "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
-        "variant_name": "Xtra Combo Plus",
+        "variant_name": "Xtra Combo",
         "option_name": "Xtra Combo Plus",
-        "order": 24
     },
     {
         "family_name": "Newcomer Promo",
