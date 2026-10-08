@@ -1,25 +1,25 @@
 [
-{
-    "name": "Conference 15GB",
-    "price": "Rp10000",
-    "detail": "Conference 15GB, 7 hari. Supported payment: E-wallet & QRIS.",
-    "packages": [
-        {
-            "family_name": "Conference",
-            "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-            "is_enterprise": false,
-            "migration_type": "NONE",
-            "variant_code": "",
-            "option_name": "Conference 15GB",
-            "order": 3
-        }
-    ],
-    "payment_for": "BUY_PACKAGE",
-    "ask_overwrite": false,
-    "overwrite_amount": 10000,
-    "token_confirmation_idx": 0,
-    "amount_idx": -1
-}
+    {
+        "name": "Conference 15GB",
+        "price": "Rp10000",
+        "detail": "Conference 15GB, 7 hari. Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "",
+                "option_name": "Conference 15GB",
+                "order": 3
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 10000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
     {
         "name": "Masa Aktif 30 Hari",
         "price": "Rp0",
