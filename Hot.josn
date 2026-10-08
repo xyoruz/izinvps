@@ -1,22 +1,23 @@
 [
     {
-        "family_name": "Conference",
-        "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-        "is_enterprise": false,
-        "migration_type": "NONE",
-        "variant_name": "Conference",
-        "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-        "option_name": "Conference 15GB",
-        "order": 3
-    },
-    {
-        "family_name": "Apps Quota Xtra Combo Plus 2GB",
-        "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-        "is_enterprise": false,
-        "migration_type": "NONE",
-        "variant_name": "Bonus Xtra Combo Plus 2GB",
-        "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-        "option_name": "Instagram 2GB",
-        "order": 24
+        "name": "Conference 15GB",
+        "price": "Rp10000",
+        "detail": "Conference 15GB, 7 hari. Supported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "",
+                "option_name": "Conference 15GB",
+                "order": 3
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 10000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
     }
 ]
