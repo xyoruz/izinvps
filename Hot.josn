@@ -3,7 +3,7 @@
         "family_name": "Conference",
         "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
         "is_enterprise": false,
-        "variant_name": "ADD_ON",
+        "variant_name": "Conference",
         "option_name": "Conference 15GB",
         "order": 3
     },
